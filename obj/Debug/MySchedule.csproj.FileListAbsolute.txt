@@ -1,0 +1,26 @@
+c:\users\kelly.guo\documents\visual studio 2012\Projects\MySchedule\MySchedule\bin\Debug\MySchedule.exe.config
+c:\users\kelly.guo\documents\visual studio 2012\Projects\MySchedule\MySchedule\bin\Debug\MySchedule.exe
+c:\users\kelly.guo\documents\visual studio 2012\Projects\MySchedule\MySchedule\bin\Debug\MySchedule.pdb
+c:\users\kelly.guo\documents\visual studio 2012\Projects\MySchedule\MySchedule\obj\Debug\MySchedule.csprojResolveAssemblyReference.cache
+c:\users\kelly.guo\documents\visual studio 2012\Projects\MySchedule\MySchedule\obj\Debug\MySchedule.exe
+c:\users\kelly.guo\documents\visual studio 2012\Projects\MySchedule\MySchedule\obj\Debug\MySchedule.pdb
+c:\users\kelly.guo\documents\visual studio 2012\Projects\MySchedule\MySchedule\obj\Debug\MySchedule.csproj.ResolveComReference.cache
+c:\users\kelly.guo\documents\visual studio 2012\Projects\MySchedule\MySchedule\bin\Debug\XSLTFile1.xslt
+c:\users\kelly.guo\documents\visual studio 2012\Projects\MySchedule\MySchedule\bin\Debug\MySchedule.exe.manifest
+c:\users\kelly.guo\documents\visual studio 2012\Projects\MySchedule\MySchedule\bin\Debug\MySchedule.application
+c:\users\kelly.guo\documents\visual studio 2012\Projects\MySchedule\MySchedule\obj\Debug\MySchedule.TrustInfo.xml
+c:\users\kelly.guo\documents\visual studio 2012\Projects\MySchedule\MySchedule\obj\Debug\MySchedule.exe.manifest
+c:\users\kelly.guo\documents\visual studio 2012\Projects\MySchedule\MySchedule\obj\Debug\MySchedule.application
+C:\Users\Kelly\Documents\schedule\MySchedule\MySchedule\bin\Debug\MySchedule.exe.config
+C:\Users\Kelly\Documents\schedule\MySchedule\MySchedule\obj\Debug\MySchedule.csproj.ResolveComReference.cache
+C:\Users\Kelly\Documents\schedule\MySchedule\MySchedule\obj\Debug\MySchedule.exe
+C:\Users\Kelly\Documents\schedule\MySchedule\MySchedule\obj\Debug\MySchedule.pdb
+C:\Users\Kelly\Documents\schedule\MySchedule\MySchedule\bin\Debug\XSLTFile1.xslt
+C:\Users\Kelly\Documents\schedule\MySchedule\MySchedule\bin\Debug\MySchedule.exe.manifest
+C:\Users\Kelly\Documents\schedule\MySchedule\MySchedule\bin\Debug\MySchedule.application
+C:\Users\Kelly\Documents\schedule\MySchedule\MySchedule\bin\Debug\MySchedule.exe
+C:\Users\Kelly\Documents\schedule\MySchedule\MySchedule\bin\Debug\MySchedule.pdb
+C:\Users\Kelly\Documents\schedule\MySchedule\MySchedule\obj\Debug\MySchedule.TrustInfo.xml
+C:\Users\Kelly\Documents\schedule\MySchedule\MySchedule\obj\Debug\MySchedule.exe.manifest
+C:\Users\Kelly\Documents\schedule\MySchedule\MySchedule\obj\Debug\MySchedule.application
+C:\Users\Kelly\Documents\schedule\MySchedule\MySchedule\obj\Debug\MySchedule.csprojResolveAssemblyReference.cache
